@@ -1,22 +1,28 @@
 # main links links
 main:
+  - title: "Work Experience"
+    url: /workex/
+  
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Education"
+    url: /education/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Projects"
+    url: /projects/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Tech Stack"
+    url: /techstack/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Teaching Experience"
+    url: /teaching/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Extracurriculars"
+    url: /extracurriculars/
+
+  - title: "Publications"
+    url: /publications/
     
   - title: "Guide"
     url: /markdown/

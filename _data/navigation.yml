@@ -20,9 +20,6 @@ main:
     
   - title: "Extracurriculars"
     url: /extracurriculars/
-
-  - title: "Publications"
-    url: /publications/
     
   - title: "Guide"
     url: /markdown/

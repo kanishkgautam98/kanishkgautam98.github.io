@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 Work Experience
- =========
-Goldman Sachs
-----
+===
 
+## Goldman Sachs
 * Developed, tested, automated and deployed application performance/health monitoring service, which is a
 one stop platform where health of the services, their respective instances and also other details like API
 documentation (Swagger), Splunk logs etc. is present.
@@ -67,8 +66,8 @@ classifying the level of likes the tweet will get using pure linguistic features
 
 Education
 =====
-Punjab Engineering College, Chandigarh
------
+## Punjab Engineering College, Chandigarh
+
 ###	B.Tech. in Computer Science & Engineering. CGPA: 8/10 (July, 2016 - June, 2020)
 #### Main coursework:
 Data Structures, Design and Analysis of Algorithms, Artificial Intelligence, Database Management Systems, Operating Systems, Software Engineering, Discrete Mathematics, Computer Networks, Web Technologies
@@ -88,14 +87,12 @@ DAV Public School, Ambota
 
 Teaching Experience
 ===
-Coding Ninjas
----
+## Coding Ninjas
 *	As a teaching assistant I was involved in taking doubt sessions, debugging codes and helping students in their assignments & various projects.
 
 Projects
 =====
-[Alerts](https://github.com/kanishkgautam98/Alerts)
-------
+## [Alerts](https://github.com/kanishkgautam98/Alerts)
 * A web app that keeps you updated with your latest notifications from websites like YouTube, LinkedIn, Medium and Reddit. Schedules data fetching periodically using celery beat and scrapes these sites with the help of selenium, thus updating the local database with the latest notifications.
 
 [Hybrid Calculator](https://github.com/kanishkgautam98/HybridCalculator)

@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Kanishk Gautam"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Work Experience
-===
-
+# Work Experience
 ## Goldman Sachs
 * Developed, tested, automated and deployed application performance/health monitoring service, which is a
 one stop platform where health of the services, their respective instances and also other details like API
@@ -49,8 +47,7 @@ solution and successfully deploying it on to production.
 * Responsible for handling tasks related to bug fixing, maintenance and new-features.
 * Primary On-Call Engineer for the supply onboarding team
 
-Publications
-======
+# Publications
 ## [An attempt on Twitter ‘likes’ grading strategy using pure linguistic feature engineering: a novel approach](https://drive.google.com/file/d/1Me_9zAYCTjH_8zrEM9UQvpjonlyonhsx/view?usp=sharing)
 ### [Certificate](https://drive.google.com/file/d/1m7r32CGqTTeyXLx7IYL7xfPUj_C3deIE/view?usp=sharing)
 ### October 24, 2020 | [Springer: Lecture Notes in Electrical Engineering](https://www.springer.com/series/7818)
@@ -64,52 +61,43 @@ classifying the level of likes the tweet will get using pure linguistic features
 
 ### Presented at: [Machine Learning, Deep Learning and Computational intelligence for Wireless Communication](https://mdcwc2020.yolasite.com/)
 
-Education
-=====
+# Education
 ## Punjab Engineering College, Chandigarh
 
 ###	B.Tech. in Computer Science & Engineering. CGPA: 8/10 (July, 2016 - June, 2020)
 #### Main coursework:
 Data Structures, Design and Analysis of Algorithms, Artificial Intelligence, Database Management Systems, Operating Systems, Software Engineering, Discrete Mathematics, Computer Networks, Web Technologies
 
-B L Central Public Senior Secondary School, Solan
-----
+## B L Central Public Senior Secondary School, Solan
 *	High School (Sciences), (95/100)%   (April, 2014 - March, 2016) 
 *	Topped entire county in Science’s division
 *	Was awarded Merit scholarship throughout the undergraduate education
 
-DAV Public School, Ambota
------
+## DAV Public School, Ambota
 *	Secondary School, GPA:10/10
 *	School topper from classes 1 to 10
 * Won several Gold medals in Olympiads
 
 
-Teaching Experience
-===
+# Teaching Experience
 ## Coding Ninjas
 *	As a teaching assistant I was involved in taking doubt sessions, debugging codes and helping students in their assignments & various projects.
 
-Projects
-=====
+# Projects
 ## [Alerts](https://github.com/kanishkgautam98/Alerts)
 * A web app that keeps you updated with your latest notifications from websites like YouTube, LinkedIn, Medium and Reddit. Schedules data fetching periodically using celery beat and scrapes these sites with the help of selenium, thus updating the local database with the latest notifications.
 
-[Hybrid Calculator](https://github.com/kanishkgautam98/HybridCalculator)
-----
+## [Hybrid Calculator](https://github.com/kanishkgautam98/HybridCalculator)
 * Compiler design project, which is capable of solving all the modern scientific calculations. It is designed using lex and yacc. After generating appropriate files, it is compiled using gcc.
 
-[Canvass](https://github.com/kanishkgautam98/Canvass)
-----
+## [Canvass](https://github.com/kanishkgautam98/Canvass)
 * A social networking app.
 *	Provides features like real time news, feed, groups, comments, notifications, chat and messages.
 
-[Eigen Faces](https://github.com/kanishkgautam98/EigenFaces)
----
+## [Eigen Faces](https://github.com/kanishkgautam98/EigenFaces)
 * An application to visualize Eigenfaces and implementation of image compression using PCA. Users can actually select an image and use scroll bars to visualize the impact of the top 10 principal components on each image
 
-Languages & Technologies
-=====
+# Languages & Technologies
 
 | Programming Languages     | C, C++, Java, Rx Java, Python,Ruby|                                                          
 | --------         | ------ | ------------------------------------------------------------ |
@@ -122,8 +110,7 @@ Languages & Technologies
 |	Others        | GitLab, Gradle, Maven, Jira, Selenium|                                                          
 | --------         | ------ | ------------------------------------------------------------ |
 
-Portfolios, Courses & Extra-curricular Activities
-=====
+# Portfolios, Courses & Extra-curricular Activities
 *	Solved 250+ problems on Leetcode:leetcode-swagger4 & around 100 on SPOJ: spoj.com/users/swagger4/
 *	GitHub profile: github.com/kanishkgautam98
 *	Completed Deep Learning Specialization from Coursera consisting of 5 courses: Deep Learning Specialization

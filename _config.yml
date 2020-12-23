@@ -85,10 +85,10 @@ author:
   bio              : "Engineering Analyst@Goldman Sachs"
   location         : "Bengaluru [IN]"
   employer         : "Goldman Sachs"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "kanishkgautam98@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "in/kanishkgautam"
+  linkedin         : "kanishkgautam"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  leetcode         : "swagger4"
+  spoj             : "swagger4"
 
 
 # Reading Files

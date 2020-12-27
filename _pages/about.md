@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Work Experience
-## Goldman Sachs
+# Work Experience #
+## Goldman Sachs ##
 * Developed, tested, automated and deployed application performance/health monitoring service, a onestop platform where the health of the services, their respective instances and other details like API documentation (Swagger), Splunk logs, etc. is present.
 * Was involved in all requirement gathering and design discussions of reporting service, which is responsible
 for generating various substantial reports from two data sources (DB2 & Mongo) using GraphQL.
@@ -26,7 +26,7 @@ version.
 team.
 * Created a Cron job for enhancing automation testing performed by the QA team.
 
-## OYO Rooms
+## OYO Rooms ##
 * Enhanced backend services responsible for onboarding various properties like hotels, homes and
 vacation stays to the OYO ecosystem, from the old monolith architecture to microservices.
 * Worked on deal creation algorithm for commercial deals between OYO & Property Owners based
@@ -42,7 +42,7 @@ development heads.
 and successfully deploying it on to production.
 * Responsible for handling tasks related to bug fixing, maintenance and new-features.
 * Worked as primary On-Call Engineer for the supply onboarding team.  
-# Publications
+# Publications #
 ## [An attempt on Twitter ‘likes’ grading strategy using pure linguistic feature engineering: a novel approach](https://drive.google.com/file/d/1Me_9zAYCTjH_8zrEM9UQvpjonlyonhsx/view?usp=sharing)
 ### [Certificate](https://drive.google.com/file/d/1m7r32CGqTTeyXLx7IYL7xfPUj_C3deIE/view?usp=sharing)
 ### October 24, 2020 | [Springer: Lecture Notes in Electrical Engineering](https://www.springer.com/series/7818)

@@ -41,9 +41,7 @@ development heads.
 * Directly worked with the business team, from gathering business requirements to designing the solution
 and successfully deploying it on to production.
 * Responsible for handling tasks related to bug fixing, maintenance and new-features.
-* Worked as primary On-Call Engineer for the supply onboarding team.
-<br></br>
-
+* Worked as primary On-Call Engineer for the supply onboarding team.    
 # Publications
 ## [An attempt on Twitter ‘likes’ grading strategy using pure linguistic feature engineering: a novel approach](https://drive.google.com/file/d/1Me_9zAYCTjH_8zrEM9UQvpjonlyonhsx/view?usp=sharing)
 ### [Certificate](https://drive.google.com/file/d/1m7r32CGqTTeyXLx7IYL7xfPUj_C3deIE/view?usp=sharing)
@@ -56,8 +54,7 @@ tweet can be measured by likes or retweets. This paper deals with pure linguisti
 embeddings in vector space via TFIDF or Doc2Vec. This paper deals with a collection of tweets on such hashtags and 
 classifying the level of likes the tweet will get using pure linguistic features in the form of a grade.
 
-### Presented at: [Machine Learning, Deep Learning and Computational intelligence for Wireless Communication](https://mdcwc2020.yolasite.com/)
-<br></br>
+### Presented at: [Machine Learning, Deep Learning and Computational intelligence for Wireless Communication](https://mdcwc2020.yolasite.com/)  
 
 # Education
 ## Punjab Engineering College, Chandigarh
@@ -74,8 +71,7 @@ Data Structures, Design and Analysis of Algorithms, Artificial Intelligence, Dat
 ## DAV Public School, Ambota
 *	Secondary School, GPA:10/10
 *	School topper from classes 1 to 10.
-* Won several Gold medals in Olympiads.
-<br></br>
+* Won several Gold medals in Olympiads.  
 
 
 # Teaching Experience
@@ -97,8 +93,7 @@ their assignments & various projects.
 
 ## [Eigen Faces](https://github.com/kanishkgautam98/EigenFaces)
 * An application to visualize Eigenfaces and implementation of image compression using PCA. Users can select
-an image and use scroll bars to visualize the top 10 principal component’s impact on each image.
-<br></br>
+an image and use scroll bars to visualize the top 10 principal component’s impact on each image.  
 
 # Languages & Technologies
 
@@ -116,7 +111,7 @@ an image and use scroll bars to visualize the top 10 principal component’s imp
 # Portfolios, Courses & Extra-curricular Activities
 *	Solved 250+ problems on Leetcode.
 * Solved around 100 problems on SPOJ.
-*	GitHub profile: github.com/kanishkgautam98
+*	GitHub profile: github.com/kanishkgautam98  
 
 
 # MOOCs & Research work
@@ -129,12 +124,12 @@ an image and use scroll bars to visualize the top 10 principal component’s imp
 * [Deep Learning Specialization (Deeplearning.ai)](https://www.coursera.org/account/accomplishments/specialization/UJENEADPBYDC)
 * [Triumph Online (Coding Ninjas)](https://drive.google.com/file/d/1d1WWBrNsbfWWXhsQ9ZYhzkMtD4cLrj6l/view?usp=sharing)
 * [Cognizance (Coding Ninjas)](https://drive.google.com/file/d/1xt8i9VLazgb1DA4XdyooC_o1jR6EDTdf/view?usp=sharing)
-* [Goldman Sachs MyLearning - Federation Core Analyst Track 2020](https://drive.google.com/file/d/1yOB_3V1XNeMKL4Pj0Pj07C4phjphwAHX/view?usp=sharing)
+* [Goldman Sachs MyLearning - Federation Core Analyst Track 2020](https://drive.google.com/file/d/1yOB_3V1XNeMKL4Pj0Pj07C4phjphwAHX/view?usp=sharing)  
 
 ## Part-time Research Assistant at Cyber-Security Research Centre, Punjab Engineering College, Chandigarh
 * Scraped news data from top-10 popular news websites such as Reuters, The New York Times etc.
 * Worked on Fake news detection for my major project.
-* Worked on Natural Language Processing, Deep Learning & Machine Learning.
+* Worked on Natural Language Processing, Deep Learning & Machine Learning.  
 
 # Leadership & Volunteering Experience
 ## Vice President - Les Amis
@@ -152,10 +147,4 @@ an image and use scroll bars to visualize the top 10 principal component’s imp
 
 ## Web-Coordinator IEEE Delhi Section
 * Developed web-sites of the conferences under the aegis of IEEE Delhi Section.
-* Maintained social media handles of IEEE Delhi Section.
-
-
-
-
-
-
+* Maintained social media handles of IEEE Delhi Section.  

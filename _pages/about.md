@@ -79,9 +79,8 @@ Data Structures, Design and Analysis of Algorithms, Artificial Intelligence, Dat
 * Won several Gold medals in Olympiads.  
 
 
-# Teaching Experience
-
-## Coding Ninjas
+## Teaching Experience
+### Coding Ninjas
 *	As a teaching assistant, I was involved in taking doubt sessions, debugging codes and helping students in
 their assignments & various projects. 
 

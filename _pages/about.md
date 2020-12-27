@@ -41,7 +41,7 @@ development heads.
 * Directly worked with the business team, from gathering business requirements to designing the solution
 and successfully deploying it on to production.
 * Responsible for handling tasks related to bug fixing, maintenance and new-features.
-* Worked as primary On-Call Engineer for the supply onboarding team.    
+* Worked as primary On-Call Engineer for the supply onboarding team.  
 # Publications
 ## [An attempt on Twitter ‘likes’ grading strategy using pure linguistic feature engineering: a novel approach](https://drive.google.com/file/d/1Me_9zAYCTjH_8zrEM9UQvpjonlyonhsx/view?usp=sharing)
 ### [Certificate](https://drive.google.com/file/d/1m7r32CGqTTeyXLx7IYL7xfPUj_C3deIE/view?usp=sharing)
@@ -77,9 +77,7 @@ Data Structures, Design and Analysis of Algorithms, Artificial Intelligence, Dat
 # Teaching Experience
 ## Coding Ninjas
 *	As a teaching assistant, I was involved in taking doubt sessions, debugging codes and helping students in
-their assignments & various projects.
-<br></br>
-
+their assignments & various projects.  
 # Projects
 ## [Alerts](https://github.com/kanishkgautam98/Alerts)
 * A web app that keeps the user updated with the latest notifications from websites like YouTube, LinkedIn, Medium, and Reddit. It schedules data fetching periodically using celery beat and scrapes these sites with selenium’s help, updating the local database with the latest notifications.

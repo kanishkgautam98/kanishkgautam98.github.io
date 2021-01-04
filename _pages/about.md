@@ -109,6 +109,9 @@ an image and use scroll bars to visualize the top 10 principal component’s imp
 ### [News Scrapers](https://github.com/kanishkgautam98/News-Scrapers)
 * This repository contains news scrapers of popular English newspapers.
 
+### [Competitive Coding](https://github.com/kanishkgautam98/Competitive-Coding)
+* This repository contains the basic and most important questions of data structures and algorithms.
+
 ## Languages & Technologies
 
 | Programming Languages     | C, C++, Java, Rx Java, Python, Ruby|                                                          

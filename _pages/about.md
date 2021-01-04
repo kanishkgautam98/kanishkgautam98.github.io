@@ -100,6 +100,15 @@ their assignments & various projects.
 * An application to visualize Eigenfaces and implementation of image compression using PCA. Users can select
 an image and use scroll bars to visualize the top 10 principal component’s impact on each image.  
 
+### [Fake News Detection](https://github.com/kanishkgautam98/FakeNewsDetection)
+* This repository contains all the work of my capstone project Fake-News Detection.
+
+### [SPOJ Solutions](https://github.com/kanishkgautam98/SPOJ)
+* This repository contains my solutions to the classical SPOJ problems and leetcode problems. Apart from the most of the implementations found out on the web, this repository has simple and concise solutions to all the problems. 
+
+### [News Scrapers](https://github.com/kanishkgautam98/News-Scrapers)
+* This repository contains news scrapers of popular English newspapers.
+
 ## Languages & Technologies
 
 | Programming Languages     | C, C++, Java, Rx Java, Python, Ruby|                                                          
@@ -110,7 +119,7 @@ an image and use scroll bars to visualize the top 10 principal component’s imp
 | --------         | ------ | ------------------------------------------------------------ |
 |	DevOps       | AWS, Kubernetes, Docker, New Relic, Kibana, Splunk|                                                          
 | --------         | ------ | ------------------------------------------------------------ |
-|	Others        | GitLab, Gradle, Maven, Jira, Selenium|                                                          
+|	Others        | GitLab, Gradle, Maven, Jira, Selenium, Gemfire,   Redis|                                                          
 | --------         | ------ | ------------------------------------------------------------ |
 
 ## Portfolios, Courses & Extra-curricular Activities
@@ -132,6 +141,7 @@ an image and use scroll bars to visualize the top 10 principal component’s imp
 * [Triumph Online (Coding Ninjas)](https://drive.google.com/file/d/1d1WWBrNsbfWWXhsQ9ZYhzkMtD4cLrj6l/view?usp=sharing)
 * [Cognizance (Coding Ninjas)](https://drive.google.com/file/d/1xt8i9VLazgb1DA4XdyooC_o1jR6EDTdf/view?usp=sharing)
 * [Goldman Sachs MyLearning - Federation Core Analyst Track 2020](https://drive.google.com/file/d/1yOB_3V1XNeMKL4Pj0Pj07C4phjphwAHX/view?usp=sharing)  
+* [Ericsson Career Connect - Telecom Essentials](https://drive.google.com/file/d/13j8us1cZ5lJWvV0GDDzjlm4gajd3uJRm/view?usp=sharing)
 
 ### Part-time Research Assistant at Cyber-Security Research Centre, Punjab Engineering College, Chandigarh
 

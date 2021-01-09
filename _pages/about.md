@@ -134,16 +134,17 @@ an image and use scroll bars to visualize the top 10 principal component’s imp
 
 ## MOOCs & Research work
 
+* [Deep Learning Specialization (DeepLearning.Ai)](https://www.coursera.org/account/accomplishments/specialization/UJENEADPBYDC)
 * [Machine Learning - Stanford University (Coursera)](https://www.coursera.org/account/accomplishments/verify/VTD32BNXQVUV)
-* [Structuring Machine Learning Projects (Deeplearning.ai)](https://www.coursera.org/account/accomplishments/certificate/422PMFZTVU2Z)
-* [Convolutional Neural Networks (Deeplearning.ai)](https://www.coursera.org/account/accomplishments/certificate/9B3YTDSG89LM)
-* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization & Optimization (Deeplearning.ai)](https://www.coursera.org/account/accomplishments/certificate/2MA3C8BJZNEV)
-* [Neural Networks & Deep Learning (Deeplearning.ai)](https://www.coursera.org/account/accomplishments/certificate/HDLWTCCPHMLV)
+* [Structuring Machine Learning Projects (DeepLearning.Ai)](https://www.coursera.org/account/accomplishments/certificate/422PMFZTVU2Z)
+* [Convolutional Neural Networks (DeepLearning.Ai)](https://www.coursera.org/account/accomplishments/certificate/9B3YTDSG89LM)
+* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization & Optimization (DeepLearning.Ai)](https://www.coursera.org/account/accomplishments/certificate/2MA3C8BJZNEV)
+* [Neural Networks & Deep Learning (DeepLearning.Ai)](https://www.coursera.org/account/accomplishments/certificate/HDLWTCCPHMLV)
 * [Sequence models (Deeplearning.ai)](https://www.coursera.org/account/accomplishments/certificate/J9AC4QHXLDVJ)
-* [Deep Learning Specialization (Deeplearning.ai)](https://www.coursera.org/account/accomplishments/specialization/UJENEADPBYDC)
 * [Triumph Online (Coding Ninjas)](https://drive.google.com/file/d/1d1WWBrNsbfWWXhsQ9ZYhzkMtD4cLrj6l/view?usp=sharing)
 * [Cognizance (Coding Ninjas)](https://drive.google.com/file/d/1xt8i9VLazgb1DA4XdyooC_o1jR6EDTdf/view?usp=sharing)
-* [Goldman Sachs MyLearning - Federation Core Analyst Track 2020](https://drive.google.com/file/d/1yOB_3V1XNeMKL4Pj0Pj07C4phjphwAHX/view?usp=sharing)  
+* [Goldman Sachs MyLearning - Federation Core Analyst Track 2020](https://drive.google.com/file/d/1yOB_3V1XNeMKL4Pj0Pj07C4phjphwAHX/view?usp=sharing) 
+* [Goldman Sachs 2020 CIMD Analyst Orientation](https://www.credential.net/4ea78d78-51f5-48fc-ae87-c659f6560bda#gs.plrw25) 
 * [Ericsson Career Connect - Telecom Essentials](https://drive.google.com/file/d/13j8us1cZ5lJWvV0GDDzjlm4gajd3uJRm/view?usp=sharing)
 
 ### Part-time Research Assistant at Cyber-Security Research Centre, Punjab Engineering College, Chandigarh

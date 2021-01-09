@@ -134,13 +134,13 @@ an image and use scroll bars to visualize the top 10 principal component’s imp
 
 ## MOOCs & Research work
 
-* [Deep Learning Specialization (DeepLearning.Ai)](https://www.coursera.org/account/accomplishments/specialization/UJENEADPBYDC)
+* [Deep Learning Specialization (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/UJENEADPBYDC)
 * [Machine Learning - Stanford University (Coursera)](https://www.coursera.org/account/accomplishments/verify/VTD32BNXQVUV)
-* [Structuring Machine Learning Projects (DeepLearning.Ai)](https://www.coursera.org/account/accomplishments/certificate/422PMFZTVU2Z)
-* [Convolutional Neural Networks (DeepLearning.Ai)](https://www.coursera.org/account/accomplishments/certificate/9B3YTDSG89LM)
-* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization & Optimization (DeepLearning.Ai)](https://www.coursera.org/account/accomplishments/certificate/2MA3C8BJZNEV)
-* [Neural Networks & Deep Learning (DeepLearning.Ai)](https://www.coursera.org/account/accomplishments/certificate/HDLWTCCPHMLV)
-* [Sequence models (Deeplearning.ai)](https://www.coursera.org/account/accomplishments/certificate/J9AC4QHXLDVJ)
+* [Structuring Machine Learning Projects (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/certificate/422PMFZTVU2Z)
+* [Convolutional Neural Networks (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/certificate/9B3YTDSG89LM)
+* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization & Optimization (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/certificate/2MA3C8BJZNEV)
+* [Neural Networks & Deep Learning (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/certificate/HDLWTCCPHMLV)
+* [Sequence models (Deeplearning.AI)](https://www.coursera.org/account/accomplishments/certificate/J9AC4QHXLDVJ)
 * [Triumph Online (Coding Ninjas)](https://drive.google.com/file/d/1d1WWBrNsbfWWXhsQ9ZYhzkMtD4cLrj6l/view?usp=sharing)
 * [Cognizance (Coding Ninjas)](https://drive.google.com/file/d/1xt8i9VLazgb1DA4XdyooC_o1jR6EDTdf/view?usp=sharing)
 * [Goldman Sachs MyLearning - Federation Core Analyst Track 2020](https://drive.google.com/file/d/1yOB_3V1XNeMKL4Pj0Pj07C4phjphwAHX/view?usp=sharing) 

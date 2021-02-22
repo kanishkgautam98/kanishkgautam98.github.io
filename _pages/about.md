@@ -11,39 +11,28 @@ redirect_from:
 
 ## Goldman Sachs ##
 
-* Developed, tested, automated and deployed application performance/health monitoring service, a onestop platform where the health of the services, their respective instances and other details like API documentation (Swagger), Splunk logs, etc. is present.
-* Was involved in all requirement gathering and design discussions of reporting service, which is responsible
-for generating various substantial reports from two data sources (DB2 & Mongo) using GraphQL.
-* Developed, tested and automated reporting service.
-* Proposed, designed and developed a feature flag system with Spring boot, Redis and ReactJS, which can
-change features at runtime from APIs to downstream services and data sources, such that release rollbacks
-are not required, and features can be switched easily by changing the feature flag.
-* Developed a JAR checker job, which validates whether all the service instances are running on the same jar
-version.
-* Involved in the development of onboarding an external client to our automated trading engine.
+*	Developed, tested, automated, and deployed application performance/health monitoring service, a one-stop platform where the health of the services, their respective instances and other details like API documentation (Swagger), Splunk logs, etc., is present.
+* Gathered requirements, discussed design, developed, tested and deployed reporting service, responsible for generating various substantial financial reports from two data sources (DB2 & Mongo) using GraphQL and several inter-service calls.
+* Proposed, designed and developed a feature flag system with Spring boot, Redis and ReactJS, which can change features at runtime from APIs to downstream services and data sources, such that release rollbacks are not required, and features can be switched easily by changing the feature flag.
+* Revamped the automated trading engine to onboard an external client.
+* Developed a JAR checker job, which validates whether all the service instances are running on the same jar version.
 * Worked on onboarding our service’s logs to Splunk.
-* Developed a new feature for searching trades in one of our services.
+* Developed Cron jobs to enhance automated testing performed by the QA team.
+* Developed Gitlab pipeline for one of the new services.
+*	Onboarded our service’s logs to Splunk.
+* Developed a new feature of searching trades in one of our services.
 * Involved in bug analysis and bug fixes.
-* Created Gitlab pipeline for the application performance monitoring service and presented a demo to the
-team.
-* Created a Cron job for enhancing automation testing performed by the QA team.
 
 ## OYO Rooms ##
 
-* Enhanced backend services responsible for onboarding various properties like hotels, homes and
-vacation stays to the OYO ecosystem, from the old monolith architecture to microservices.
-* Worked on deal creation algorithm for commercial deals between OYO & Property Owners based
-on various factors.
-* Developed, tested and deployed, a feature to create pdf contract between OYO and property
-owners by pulling data from various microservices, which was being done manually earlier.
-* Developed, tested and deployed, meeting-related enhancements that allowed business development
-managers to store data related to meetings, user-wise and country wise.
-* Developed a feature of mapping various business development managers under appropriate business
-development heads.
-* Solved the out-of-memory issue for one of our services while working as an on-call engineer.
-* Directly worked with the business team, from gathering business requirements to designing the solution
-and successfully deploying it on to production.
-* Responsible for handling tasks related to bug fixing, maintenance and new-features.
+*	Enhanced backend services responsible for onboarding various properties like hotels, homes, and vacation stays to the OYO ecosystem, from the old monolith architecture to microservices.
+* Worked on deal creation algorithm for commercial deals between OYO & Property Owners based on various factors.
+* Developed, tested and deployed, feature to create pdf contracts between OYO and property owners by pulling data from various microservices, which was done manually earlier.
+* Developed, tested and deployed, meeting-related enhancements that allowed business development managers to store data related to meetings, user-wise and country wise.
+* Developed a feature of mapping various business development managers under appropriate business development heads.
+* Solved the out-of-memory issue (SEV-1) for one of our services while working as an on-call engineer.
+* Directly worked with the business team, from gathering business requirements to designing the solution and successfully deploying it on to production.
+* Responsible for handling tasks related to bug fixing, maintenance and new-features rollouts.
 * Worked as primary On-Call Engineer for the supply onboarding team.
 
 ## Publications
@@ -61,19 +50,19 @@ Twitter is one of the people’s favorite social media platform used for sharing
 
 ## Education
 
-### Punjab Engineering College, Chandigarh
+### Punjab Engineering College, Chandigarh, India
 
-####	B.Tech. in Computer Science & Engineering. CGPA: 8/10 (July, 2016 - June, 2020)
+####	B.Tech. In Computer Science & Engineering. CGPA: 8/10 (July, 2016 - June, 2020)
 
 ##### Main coursework:
 Data Structures, Design and Analysis of Algorithms, Artificial Intelligence, Database Management Systems, Operating Systems, Software Engineering, Discrete Mathematics, Computer Networks, Web Technologies
 
-### B L Central Public Senior Secondary School, Solan
+### B L Central Public Senior Secondary School, Solan, India
 *	High School (Sciences), (95/100)%   (April, 2014 - March, 2016) 
 *	Topped entire county in Science’s division.
 *	Was awarded Merit scholarship throughout the undergraduate education.
 
-### DAV Public School, Ambota
+### DAV Public School, Ambota, India
 *	Secondary School, GPA:10/10
 *	School topper from classes 1 to 10.
 * Won several Gold medals in Olympiads.  
@@ -81,30 +70,28 @@ Data Structures, Design and Analysis of Algorithms, Artificial Intelligence, Dat
 
 ## Teaching Experience
 ### Coding Ninjas
-*	As a teaching assistant, I was involved in taking doubt sessions, debugging codes and helping students in
-their assignments & various projects. 
+*	Involved in taking doubt sessions, debugging codes and assisting students with their assignments and projects. 
 
 ## Projects
 
 ### [Alerts](https://github.com/kanishkgautam98/Alerts)
-* A web app that keeps the user updated with the latest notifications from websites like YouTube, LinkedIn, Medium, and Reddit. It schedules data fetching periodically using celery beat and scrapes these sites with selenium’s help, updating the local database with the latest notifications.
+* Alerts is a web app that keeps the user updated with the latest notifications from websites like YouTube, LinkedIn, Medium, and Reddit. It schedules data fetching periodically using celery beat and scrapes these sites with selenium’s help, stores data in the local database and updates the user with the latest notifications.
 
 ### [Hybrid Calculator](https://github.com/kanishkgautam98/HybridCalculator)
-* This is a compiler design project, which is capable of solving all the modern scientific calculations. It is designed using lex and yacc. After generating appropriate files, it is compiled using gcc.
+* This is a compiler design project, which is capable of solving all the modern scientific calculations. It is designed using lex and yacc. After generating appropriate files, they are compiled using gcc.
 
 ### [Canvass](https://github.com/kanishkgautam98/Canvass)
 * A social networking app.
-*	Provides features like real time news, feed, groups, comments, notifications, chat and messages.
+*	It provides features like real time news, feed, groups, comments, notifications, chat and messages.
 
 ### [Eigen Faces](https://github.com/kanishkgautam98/EigenFaces)
-* An application to visualize Eigenfaces and implementation of image compression using PCA. Users can select
-an image and use scroll bars to visualize the top 10 principal component’s impact on each image.  
+* An application to visualize Eigenfaces and implementation of image compression using PCA. Users can select an image and use scroll bars to visualize the top 10 principal component’s impact on each image. 
 
 ### [Fake News Detection](https://github.com/kanishkgautam98/FakeNewsDetection)
-* This repository contains all the work of my capstone project Fake-News Detection.
+* This repository contains the work of my capstone project Fake-News Detection.
 
 ### [SPOJ Solutions](https://github.com/kanishkgautam98/SPOJ)
-* This repository contains my solutions to the classical SPOJ problems and leetcode problems. Apart from the most of the implementations found out on the web, this repository has simple and concise solutions to all the problems. 
+* This repository contains my solutions to the classical SPOJ problems and leetcode problems. Apart from the most of the implementations found out on the web, this repository has simple and concise solutions to problems. 
 
 ### [News Scrapers](https://github.com/kanishkgautam98/News-Scrapers)
 * This repository contains news scrapers of popular English newspapers.
